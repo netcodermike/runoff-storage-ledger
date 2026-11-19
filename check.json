@@ -1,0 +1,11 @@
+{
+  "command": [
+    "dotnet",
+    "bin/Debug/net8.0/App.dll"
+  ],
+  "expected": {
+    "finalLiters": 0,
+    "overflowLiters": 0,
+    "unmetLiters": 20
+  }
+}

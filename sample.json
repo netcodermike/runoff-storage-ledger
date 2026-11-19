@@ -1,0 +1,16 @@
+{
+  "capacityLiters": 100,
+  "initialLiters": 20,
+  "roofM2": 10,
+  "captureFraction": 0.8,
+  "days": [
+    {
+      "rainMm": 10,
+      "demandLiters": 30
+    },
+    {
+      "rainMm": 0,
+      "demandLiters": 90
+    }
+  ]
+}
